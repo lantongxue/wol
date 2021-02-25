@@ -1,6 +1,9 @@
 # wol
 Wake On Lan for Golang
 
+# Build
+`go build -o wol ./src`
+
 # Usage
 ```shell
 Usage of wol:

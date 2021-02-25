@@ -1,4 +1,4 @@
-# wol
+# wol-golang
 Wake On Lan for Golang
 
 # Build
